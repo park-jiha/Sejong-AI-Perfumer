@@ -2,16 +2,16 @@
 
 #### ※ 1차 활동 : https://github.com/park-jiha/Makers_Day
 
-## ■ 창의 과제
+## ▶ 창의 과제
 ### ● 국문 : 컴퓨터 비전 기술을 이용한 얼굴 이미지 분석 및 향수 추천 시스템
 ### ● 영문 : Facial impression analysis and perfume recommendation system based on computer vision technology
 
-## ■ Purpose
-1. Pytorch를 이용한 Face Image Classification model 구축
-2. Touch Free 시스템 구현을 위한 Mediapipe 기반 Hand Pose Estimation 기술 구현
-3. 도출된 결론을 바탕으로 향수 추천 결과를 Flask를 이용하여 최종 web 서비스로 제공
+## ▶ Purpose
+### 1. Pytorch를 이용한 Face Image Classification model 구축
+### 2. Touch Free 시스템 구현을 위한 Mediapipe 기반 Hand Pose Estimation 기술 구현
+### 3. 도출된 결론을 바탕으로 향수 추천 결과를 Flask를 이용하여 최종 web 서비스로 제공
 
-## ■ Details
+## ▶ Details
 ### ➀ Class 선정
 : 가장 대표되는 이미지 6가지를 선정했습니다. ‘Active’, ‘Clean’, ‘Cute’, ‘Elegant’, ‘Natural’, ‘Sexy’ 이며, 남자와 여자가 주는 기본적인 인상도 다르기 때문에 성별도 나누어 class를 분류했습니다. 최종적으로 총 12개의 Class를 선정할 수 있었습니다.
 
