@@ -32,6 +32,24 @@
 
 ## ▶ 주간 활동 결과
 
+|회차|학습 목표 및 활동|학습 방법|
+|:---:|:---:|:---:|
+1|창의학습 운영위원회 심사의견과 담당 교수님의 의견을 반영하여 학습 방향성 수정 및 보완|Zoom 미팅|
+2|데이터셋 class 조정 및 추가 수집|GitHub|
+3|데이터셋 정비, 이미지 분류 모델 이해, 튜토리얼 코드 작성|GitHub, Jupyter Notebook|
+4|이미지 분류 모델에 대한 개인 공부, Pytorch 코드 이해|Jupyter Notebook|
+5|4주차 학습 이어서 진행|Jupyter Notebook|
+6|전이학습 모델 비교 및 웹캠으로 얼굴 이미지 인식 모델 구현|Jupyter Notebook|
+7|중간고사|-|
+8|중간고사|-|
+9|웹캠에서 얼굴 이미지를 찾아 학습 모델에 적용|Jupyter Notebook|
+10|웹캠에서 특정 Hand gesture를 판단하고 그 순간의 얼굴 화면 crop하여 저장, crop image를 모델에 바로 태울 수 있도록 병합|Jupyter Notebook|
+11|웹 상에 실시간 웹캠 송출, 정리된 모델을 웹에 연동|Flask, Jupyter Notebook|
+12|모델 코드의 웹캠을 웹에 실시간으로 전송, Hand gesture를 파악하고 세 번에 걸친 결과 도출 모델 완성|Flask, Jupyter Notebook|
+13|Flask를 이용하여 파이썬 모델 적용 및 전체적인 시나리오 완성|Flask|
+14|모델 및 웹 최종 완성, 수정 및 보완|Flask|
+15|기말고사|-|
+
 
 ## ▶ 기대효과
 ### ➀ Deep Learning Task
