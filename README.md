@@ -49,4 +49,3 @@
 
 - 최종 추천 결과창
 <img src="https://user-images.githubusercontent.com/62232217/152659327-fcdae369-a52c-45e9-a37e-53b921388863.png"  width="850" height="500"/>
-
