@@ -34,8 +34,12 @@
 
 
 ## ▶ 최종 결과물 및 성과 예시
-![결과1](https://user-images.githubusercontent.com/62232217/152659325-c3d7200b-1547-48fa-b382-3651ec633a72.png)
-![결과2](https://user-images.githubusercontent.com/62232217/152659327-fcdae369-a52c-45e9-a37e-53b921388863.png)
+- 사용자가 손으로 질문 결과를 가리키는 장면
+<img src="https://user-images.githubusercontent.com/62232217/152659325-c3d7200b-1547-48fa-b382-3651ec633a72.png"  width="600" height="400"/>
+
+- 최종 추천 결과창
+<img src="https://user-images.githubusercontent.com/62232217/152659327-fcdae369-a52c-45e9-a37e-53b921388863.png"  width="850" height="500"/>
+
 
 ## ▶ 기대효과
 ### ➀ Deep Learning Task
