@@ -32,8 +32,8 @@
 
 ## ▶ 주간 활동 결과
 
-|회차|학습 목표 및 활동|학습 방법|
-|:---:|:----:|:----:|
+|주차|학습 목표 및 활동|학습 방법|
+|:----:|:----:|:----:|
 1|창의학습 운영위원회 심사의견과 담당 교수님의 의견을 반영하여 학습 방향성 수정 및 보완|Zoom 미팅|
 2|데이터셋 class 조정 및 추가 수집|GitHub|
 3|데이터셋 정비, 이미지 분류 모델 이해, 튜토리얼 코드 작성|GitHub, Jupyter Notebook|
@@ -66,7 +66,7 @@
 
 ## ▶ 최종 결과물 및 성과 예시
 - 사용자가 손으로 질문 결과를 가리키는 장면
-<img src="https://user-images.githubusercontent.com/62232217/152659325-c3d7200b-1547-48fa-b382-3651ec633a72.png"  width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/62232217/152659325-c3d7200b-1547-48fa-b382-3651ec633a72.png"  width="550" height="380"/>
 
 - 최종 추천 결과창
 <img src="https://user-images.githubusercontent.com/62232217/152659327-fcdae369-a52c-45e9-a37e-53b921388863.png"  width="850" height="500"/>
