@@ -6,12 +6,12 @@
 ### ● 국문 : 컴퓨터 비전 기술을 이용한 얼굴 이미지 분석 및 향수 추천 시스템
 ### ● 영문 : Facial impression analysis and perfume recommendation system based on computer vision technology
 
-## ▶ Purpose
-### 1. Pytorch를 이용한 Face Image Classification model 구축
-### 2. Touch Free 시스템 구현을 위한 Mediapipe 기반 Hand Pose Estimation 기술 구현
-### 3. 도출된 결론을 바탕으로 향수 추천 결과를 Flask를 이용하여 최종 web 서비스로 제공
+## ▶ 목표
+#### 1. Pytorch를 이용한 Face Image Classification model 구축
+#### 2. Touch Free 시스템 구현을 위한 Mediapipe 기반 Hand Pose Estimation 기술 구현
+#### 3. 도출된 결론을 바탕으로 향수 추천 결과를 Flask를 이용하여 최종 web 서비스로 제공
 
-## ▶ Details
+## ▶ 상세 내용
 ### ➀ Class 선정
 : 가장 대표되는 이미지 6가지를 선정했습니다. ‘Active’, ‘Clean’, ‘Cute’, ‘Elegant’, ‘Natural’, ‘Sexy’ 이며, 남자와 여자가 주는 기본적인 인상도 다르기 때문에 성별도 나누어 class를 분류했습니다. 최종적으로 총 12개의 Class를 선정할 수 있었습니다.
 
@@ -30,3 +30,18 @@
 ### ➅ Flask를 이용한 웹 서비스 제작
 : 앞선 모델 및 알고리즘으로 도출된 결과를 웹 서비스로 나타내줍니다. Flask를 이용하여 실시간 웹캠 송출을 함과 동시에 얼굴 분류 모델 및 Hand Pose Estimation이 진행되고, 결과가 도출되면 향수 추천 결과창을 웹 화면에 보여줍니다. 웹 디자인은 CSS를 활용해 진행했습니다.
 
+## ▶ 주간 활동 결과
+
+
+## ▶ 최종 결과물 및 성과 예시
+
+
+## ▶ 기대효과
+### ➀ Deep Learning Task
+: 이미지 분류 모델을 활용해보면서, 사람 얼굴의 작고 미세한 특징 조합을 어느 정도까지 구분해 낼 수 있을지 확인해보는 좋은 시도가 되었습니다. 이를 통해 기존의 분류 문제보다 더 복잡한 문제들을 해결해나가는 발전적인 과정이 될 것이라 생각합니다.
+
+### ➁ Touch Free System
+: 터치 프리 시스템의 활용으로 컴퓨터 비전 기술 중 하나인 Hand Pose Estimation 기술을 이용하여 직접적으로 터치하지 않아도 되는, 비대면 체험 부스나 전시회 및 다양한 서비스에 활용될 수 있는 가능성을 갖습니다.
+
+### ➂ Entertainment AI
+: 나의 이미지를 인공지능이 분석해주고, 이에 맞는 향수를 추천해준다는 것은 평소에 쉽게 접하지 못하는 서비스입니다. 사용자들이 이 서비스를 통해 만족감을 느끼고, AI에 대한 흥미 있는 접근이 이루어진다면, 그 자체만으로도 긍정적인 재미 요소를 기대해 볼 수 있을 것입니다.
