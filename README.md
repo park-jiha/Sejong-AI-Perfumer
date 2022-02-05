@@ -1,4 +1,4 @@
-# AI Perfumer
+# AI Perfumer:sparkles:
 
 #### ※ 1차 활동 : https://github.com/park-jiha/Makers_Day
 
