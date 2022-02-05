@@ -33,14 +33,6 @@
 ## ▶ 주간 활동 결과
 
 
-## ▶ 최종 결과물 및 성과 예시
-- 사용자가 손으로 질문 결과를 가리키는 장면
-<img src="https://user-images.githubusercontent.com/62232217/152659325-c3d7200b-1547-48fa-b382-3651ec633a72.png"  width="600" height="400"/>
-
-- 최종 추천 결과창
-<img src="https://user-images.githubusercontent.com/62232217/152659327-fcdae369-a52c-45e9-a37e-53b921388863.png"  width="850" height="500"/>
-
-
 ## ▶ 기대효과
 ### ➀ Deep Learning Task
 : 이미지 분류 모델을 활용해보면서, 사람 얼굴의 작고 미세한 특징 조합을 어느 정도까지 구분해 낼 수 있을지 확인해보는 좋은 시도가 되었습니다. 이를 통해 기존의 분류 문제보다 더 복잡한 문제들을 해결해나가는 발전적인 과정이 될 것이라 생각합니다.
@@ -50,3 +42,11 @@
 
 ### ➂ Entertainment AI
 : 나의 이미지를 인공지능이 분석해주고, 이에 맞는 향수를 추천해준다는 것은 평소에 쉽게 접하지 못하는 서비스입니다. 사용자들이 이 서비스를 통해 만족감을 느끼고, AI에 대한 흥미 있는 접근이 이루어진다면, 그 자체만으로도 긍정적인 재미 요소를 기대해 볼 수 있을 것입니다.
+
+## ▶ 최종 결과물 및 성과 예시
+- 사용자가 손으로 질문 결과를 가리키는 장면
+<img src="https://user-images.githubusercontent.com/62232217/152659325-c3d7200b-1547-48fa-b382-3651ec633a72.png"  width="600" height="400"/>
+
+- 최종 추천 결과창
+<img src="https://user-images.githubusercontent.com/62232217/152659327-fcdae369-a52c-45e9-a37e-53b921388863.png"  width="850" height="500"/>
+
